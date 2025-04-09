@@ -34,7 +34,7 @@ h2 {
 #hero-section {
   display: flex;
   margin: 0 auto 48px auto;
-  max-width: 600px;
+  max-width: 800px;
 }
 #hero-text {
   width: 50%;
@@ -86,17 +86,17 @@ h2 {
 }
 .section-heading {
   text-align: center;
-  max-width: 300px;
+  max-width: 400px;
   margin: 0 auto;
 }
 .section-subtitle {
   text-align: center;
   margin: 8px auto 48px auto;
-  max-width: 300px;
+  max-width: 400px;
 }
 #pricing-boxes {
   display: flex;
-  max-width: 600px;
+  max-width: 800px;
   margin: 0 auto;
 }
 .pricing-boxing {
