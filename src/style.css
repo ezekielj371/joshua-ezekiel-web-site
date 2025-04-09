@@ -34,7 +34,7 @@ h2 {
 #hero-section {
   display: flex;
   margin: 0 auto 48px auto;
-  max-width: 600pxpx;
+  max-width: 600px;
 }
 #hero-text {
   width: 50%;
